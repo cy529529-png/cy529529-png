@@ -1,16 +1,21 @@
-## Hi there 👋
+# 你好，我是 cy529529-png 👋
 
-<!--
-**cy529529-png/cy529529-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我从事电商产品三维视觉制作，主要负责产品建模、材质、布光和渲染，也在探索 AI 怎样真正缩短从需求到合格交付的时间。
 
-Here are some ideas to get you started:
+## 我在做什么
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 制作跨品类电商产品视觉，关注产品结构准确、材质可信和画面表达。
+- 使用 3ds Max、V-Ray 等工具完成可编辑的三维场景与渲染交付。
+- 探索 AI、脚本与工作流在建模、贴图、渲染和质量检查中的应用。
+
+## 我关注的问题
+
+比起单次生成速度，我更关心：结果是否准确、是否方便修改，以及从输入到合格交付的总耗时。希望把有效的方法沉淀为可复用的工具和流程。
+
+## 这里会记录
+
+- AI 辅助产品三维视觉的实验与复盘
+- 3ds Max / V-Ray 的制作流程与小工具
+- 从视觉制作走向 AI + 3D 工作流的实践
+
+> 正在持续整理项目案例。这里的内容以实际验证的结果为准。
